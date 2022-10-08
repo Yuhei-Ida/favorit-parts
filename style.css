@@ -1,0 +1,73 @@
+.bg-base{
+    
+    /*background: rgb(19, 167, 172);*/
+    background-color: #cac7c381;
+}
+
+.bg-card{
+    
+}
+
+.card{
+    /* border-radius: 0!important; */
+    /* background: rgba(248,247,246); */
+    padding-left:10px;
+    padding-right:10px;
+}
+
+.bg-grouping{
+    background-color: rgba(242,241,240);
+}
+
+.main{
+    padding-left:10px;
+    padding-right:10px;
+}
+
+.bg-sideber{
+    background-color: rgba(242,241,240);
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-weight: normal;
+}
+
+body{
+    zoom: 90%;
+}
+
+
+.def-group .def-label{
+    font-size: 0.8em;
+    color:rgba(112,109,101);
+}
+
+.def-group .def-value{
+    border-bottom: lightgray dashed thin;
+    margin-top:2px;
+}
+
+.editting{
+    background-color: lightyellow;
+}
+
+.card{
+    border: none!important;
+}
+
+.card-header{
+    /*border: none !important;*/
+    /*background-color: #f2f1f0;*/
+    background-color: white;
+
+}
+
+.header-font{
+    font-weight: inherit;
+    font-size: 1.4em;
+}
+
+.bg-white{
+    
+    background-color: white;
+}
